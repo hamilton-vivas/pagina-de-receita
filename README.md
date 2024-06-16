@@ -1,6 +1,6 @@
 
 ---
-# Projeto Página de Receita do Frontend Mentor TESTE
+# Projeto Página de Receita do Frontend Mentor
 
 [<img src="./src/pagina-receita.gif" alt="Gif do projeto pagina de receita">](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
@@ -31,13 +31,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/hamilton-vivas/projeto-pagina-de-receita.git
+   git clone https://github.com/hamilton-vivas/pagina-de-receita.git
    ```
 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd projeto-pagina-de-receita
+   cd pagina-de-receita
    ```
 
 3. Abra o arquivo `index.html` no seu navegador para ver a página da receita.
