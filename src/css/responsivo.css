@@ -1,0 +1,152 @@
+@media (max-width: 768px) {
+    .container .corpo-receita .instrucoes ol {
+        margin-right: 25px;
+    }
+
+    .container .corpo-receita .nutricao .descricao-nutricao {
+        margin-right: 19px;
+    }
+
+    .container .corpo-receita .nutricao hr {
+        width: 94%;
+    }
+}
+
+@media (max-width: 425px) {
+    body {
+        background-color: hsl(0, 0%, 100%);
+    }
+
+    .container  {
+        display: block; 
+        width: 100%; 
+        margin: 0;  
+    }
+    
+    .container .corpo-receita {
+        background-color: transparent; 
+        border-radius: 0; 
+        margin: 0; 
+        padding: 0; 
+        width: 100%; 
+    }
+
+    .container .corpo-receita .quadro-omelete {
+        padding: 0;
+        border-radius: 0;
+    }
+    
+    .container .corpo-receita .imagem-omelete {
+        border-radius: 0;
+        width: 100%; 
+    }
+
+    .container .corpo-receita .titulo-receita {
+        font-size: 3.6rem;
+        line-height: 34px;
+        padding: 35px 30px 0;
+    }
+
+    .container .corpo-receita .descricao-receita {
+        padding: 30px 30px 15px;
+        line-height: 23px;
+    }
+
+    .container .corpo-receita .tempo-preparacao {
+        padding: 28px; 
+        margin-top: 12px;
+        width:85%; 
+    }
+    
+    .container .corpo-receita .ingredientes {
+        margin-top: 35px;
+        margin-left: 0;
+        padding:  0 22px;
+        width: 100%; 
+    }
+
+    .container .corpo-receita .ingredientes .lista-ingredientes br {
+        display: block;
+    }
+    
+    .container .corpo-receita .ingredientes .lista-ingredientes li {
+        text-indent: 0;
+    }
+
+    .container .corpo-receita .ingredientes .lista-ingredientes br {
+        display: block;
+    }
+
+    .container .corpo-receita .instrucoes {
+        margin-top: 12px;
+        margin-left: 0;
+        width: 100%; 
+    }
+
+    .container .corpo-receita .instrucoes .titulo-instrucoes {
+        margin-left: 25px;
+    }
+    
+    .container .corpo-receita .instrucoes  ol {
+        margin-top: 0;
+        padding: 20px 35px 0 10px;
+        margin-left: 17px;
+        width: 100%; 
+    }
+
+    .container .corpo-receita .instrucoes .lista-instrucoes li {
+       padding-right: 2px; 
+    }
+    
+    .container .corpo-receita .instrucoes .lista-instrucoes br {
+        display: none;
+    }
+    
+    .container .corpo-receita .nutricao {
+        padding-left: 34px;
+        margin-top: 12px;
+        width: 100%; 
+    }
+    
+    .container .corpo-receita .nutricao .descricao-nutricao {
+       padding-right: 30px;
+    }
+   
+    .container .corpo-receita .nutricao .informacao-nutricao {
+        display: flex;
+        justify-content: space-between; 
+        width: 100%; 
+    }
+
+    .container .corpo-receita .nutricao .item-nutricao {
+        margin-left: 10%;
+        flex: 1; 
+    }
+
+    .container .corpo-receita .nutricao .paragrafo-nutricao {
+        margin-right: 45%;
+        flex: 1; 
+        text-align: right; 
+    }
+    
+    .container .corpo-receita .nutricao .informacao-nutricao span {
+        font-weight: 700;
+        color:hsl(14, 45%, 36%);
+    }
+    
+    .container .corpo-receita .nutricao hr {
+        width: 90%;           
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
